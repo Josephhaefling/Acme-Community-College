@@ -24,10 +24,6 @@ To install Acme Community College
 - cd into your cloned repository and run npm install 
 - Run npm start and Acme Community College will open in your browseer
 
-## Contributors:
-
-- Joseph Haefling
-
 ## Technologies Used
 - React/Hooks
 - Material UI
